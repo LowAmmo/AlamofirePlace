@@ -13,8 +13,8 @@ Pod::Spec.new do |s|
   s.source            = {
                           :git => "https://github.com/LowAmmo/AlamofirePlace.git",
                           # uncomment tag and comment out branch on release
-                          :tag => "#{s.version}"
-                          #:branch => "master"
+                          #:tag => "#{s.version}"
+                          :branch => "main"
                         }
   s.author            = {
                           'Kline,Kris' => 'kris.kline@oracle.com'
