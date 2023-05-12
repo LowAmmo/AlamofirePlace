@@ -27,4 +27,5 @@ Pod::Spec.new do |s|
 
   # External Dependencies
   s.dependency 'Alamofire', '~> 5.7.1'
+  s.dependency 'ReachabilitySwift', '~> 5.0.0'
 end
